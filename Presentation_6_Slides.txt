@@ -1,0 +1,57 @@
+SLIDE 1 — TITLE
+AI Customer Support Chatbot Knowledge Base
+No-Code Artificial Intelligence Project
+Student: [Your Name]
+Department: B.Tech Information Technology
+College: [Your College]
+Guide: [Guide Name]
+
+SLIDE 2 — PROBLEM AND OBJECTIVES
+Problem:
+• Customers ask repeated questions about orders, delivery, payments, and returns.
+• Manual support can be slow and unavailable outside working hours.
+Objectives:
+• Automate routine customer support.
+• Provide quick, consistent answers from verified knowledge.
+• Escalate unknown or complex queries safely.
+
+SLIDE 3 — PROPOSED SYSTEM
+• Customer enters a question in the chatbot.
+• AI interprets the query.
+• Knowledge base is searched for relevant information.
+• Chatbot generates a grounded response.
+• Unknown questions are routed to official human support.
+Tools: Botpress, Google Sheets, Google Docs, Canva.
+
+SLIDE 4 — KNOWLEDGE BASE AND IMPLEMENTATION
+• FAQ dataset grouped by topic.
+• Botpress AI agent with system instructions.
+• Upload/connect FAQ knowledge source.
+• Configure welcome message and suggested questions.
+• Test known, ambiguous, and unknown questions.
+• Publish a share link or website widget.
+
+SLIDE 5 — TESTING AND RESULTS
+Test examples:
+• “How long does delivery take?”
+• “How do I reset my password?”
+• “Can I return a product?”
+• “What is my exact order status?”
+Evaluate:
+• Answer accuracy
+• Relevance
+• Response time
+• Safe fallback behavior
+Insert actual screenshots and measured results after testing.
+
+SLIDE 6 — CONCLUSION AND FUTURE SCOPE
+Conclusion:
+• No-code AI can automate routine customer support.
+• A structured knowledge base improves answer consistency.
+• Human support remains necessary for complex cases.
+Future scope:
+• Tamil-English support
+• Secure order tracking
+• WhatsApp integration
+• CRM/ticketing
+• Analytics and customer feedback

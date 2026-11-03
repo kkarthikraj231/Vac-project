@@ -1,0 +1,36 @@
+﻿ID,Category,Question,Answer
+1,General,What is SmartShop?,SmartShop is a fictional online shopping platform used for this project demonstration.
+2,General,What products does SmartShop sell?,SmartShop offers a range of general consumer products. Check the product catalogue for current availability.
+3,General,How can I browse products?,Browse product categories or use the search bar to find an item.
+4,Account,How do I create an account?,Select Sign Up and complete the required registration fields.
+5,Account,How do I reset my password?,Select Forgot Password on the login page and follow the instructions.
+6,Account,I cannot log in. What should I do?,"Check your email and password, use Forgot Password if needed, and contact support if the issue continues."
+7,Orders,How do I place an order?,"Choose a product, add it to your cart, and complete checkout."
+8,Orders,Can I cancel my order?,Cancellation depends on the order status. Check the order page or contact support for confirmation.
+9,Orders,How can I track my order?,Use the tracking link provided after your order is shipped.
+10,Orders,My order has not arrived. What should I do?,"Check the tracking information first. If the delivery window has passed, contact customer support with your order reference."
+11,Orders,Can I change my delivery address?,Address changes depend on the order status. Contact support as soon as possible; do not share sensitive information in the chatbot.
+12,Delivery,How long does delivery take?,"For this demo, standard delivery takes 3–5 business days."
+13,Delivery,Do you deliver on weekends?,Weekend delivery depends on the courier and location. Check the delivery estimate for your order.
+14,Delivery,Is delivery free?,"Delivery charges, if any, are shown during checkout before payment."
+15,Delivery,Can I choose a delivery date?,"Available delivery options are displayed during checkout, when supported."
+16,Payment,What payment methods are accepted?,"For this demo, UPI, debit cards, credit cards, and net banking are accepted."
+17,Payment,My payment failed. What should I do?,"Check your payment method and try again. If money was debited, contact your bank and customer support. Never share an OTP or PIN."
+18,Payment,Was I charged twice?,Check your bank statement and order confirmation. Contact support with a transaction reference; never share card details or OTPs.
+19,Payment,Can I pay on delivery?,"Cash-on-delivery availability, if offered, is shown at checkout."
+20,Returns,Can I return a product?,"For this demo, eligible products can be returned within 7 days, subject to the return policy."
+21,Returns,How do I request a return?,"Open your order, choose the eligible item, and follow the return instructions. Contact support if the option is unavailable."
+22,Returns,Is every product returnable?,"Return eligibility depends on product type, condition, and the stated return policy."
+23,Returns,What if I received a damaged product?,Keep the packaging and contact support promptly with the order reference and relevant photos through the official support channel.
+24,Refunds,When will I receive my refund?,"For this demo, approved refunds are processed within 5–7 business days. Bank processing may vary."
+25,Refunds,How can I check my refund status?,Check the order or refund status page. Contact support if the expected processing period has passed.
+26,Refunds,Can I get a refund for a cancelled order?,"If payment was completed, refund eligibility and timing depend on the order status and payment provider."
+27,Products,How can I check product availability?,"The product page shows current availability. If an item is unavailable, check again later."
+28,Products,How can I find product specifications?,Open the product page and review its description and specifications.
+29,Support,How can I contact a human agent?,Use the official Help or Contact Support section to reach a customer support representative.
+30,Support,What are your support hours?,Please check the official support page for current hours. This demo does not define live operating hours.
+31,Privacy,Is it safe to share my password here?,"No. Never share passwords, OTPs, PINs, or full payment details with a chatbot."
+32,Privacy,What information should I provide to support?,"Provide only the minimum information requested through the official, secure support channel."
+33,Unknown,Can you tell me my exact order status?,I cannot access live order records in this demo. Please use the official tracking page or contact support.
+34,Unknown,Can you guarantee a delivery date?,I cannot guarantee a delivery date. Please refer to the latest tracking information.
+35,Unknown,Can you answer a question outside SmartShop support?,I am designed for SmartShop customer support. I can help with supported topics or direct you to a human agent.

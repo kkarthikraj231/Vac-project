@@ -1,0 +1,36 @@
+DEMO GUIDE
+Before demonstration:
+1. Open the published chatbot or Botpress test panel.
+2. Keep the FAQ knowledge source visible in another tab.
+3. Prepare screenshots of the chatbot builder and published chat.
+4. Do not claim live order/payment integration unless you built and tested it.
+
+Suggested 3-minute demonstration:
+1. Introduce the problem and SmartShop demo.
+2. Ask: “How long does delivery take?” Show a knowledge-grounded answer.
+3. Ask: “How do I reset my password?” Show another FAQ answer.
+4. Ask: “What is my exact order status?” Confirm the bot does not invent live data.
+5. Ask: “Can I speak to a human?” Show fallback/support direction.
+6. Explain how updating the FAQ updates the chatbot’s knowledge.
+
+VIVA QUESTIONS AND SHORT ANSWERS
+1. What is a knowledge base?
+   A structured collection of verified information used to answer questions.
+2. What is a no-code platform?
+   A tool that lets users build applications through visual interfaces rather than writing code.
+3. What is NLP?
+   Natural Language Processing helps computers interpret human language.
+4. What is generative AI?
+   AI that creates new content, such as conversational answers.
+5. What is RAG?
+   Retrieval-Augmented Generation retrieves relevant information and uses it to ground a generated answer.
+6. Why does the chatbot need a fallback?
+   To avoid guessing when reliable information is unavailable.
+7. What is the main limitation?
+   It may misunderstand questions or lack updated information; complex cases need human support.
+8. How do you evaluate it?
+   Test known and unknown queries and measure accuracy, relevance, response time, and fallback behavior.
+9. Is the sample company real?
+   No. SmartShop is fictional and used for demonstration.
+10. What is future scope?
+    Multilingual support, secure integrations, analytics, and human-agent ticketing.
